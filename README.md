@@ -22,22 +22,17 @@
 
 ---
 
-## 📁 Project Structure
-
-An-Inclusive-platform-for-the-deaf-and-disabled/
-├── src/           # Source code and components
-├── public/        # Static files and assets
-├── tests/         # Automated tests (if any)
-├── package.json   # Project dependencies and scripts
-└── README.md      # Project documentation (this file)
 🚀 Getting Started
 Clone the repository:
 
 git clone https://github.com/harish170704/An-Inclusive-platform-for-the-deaf-and-disabled.git
+
 Install dependencies:
 npm install
+
 Run the development server:
 npm start
+
 Access the app in your browser:
 http://localhost:3000 (or the port specified in your setup)
 
@@ -50,5 +45,6 @@ Test changes with assistive tools to ensure usability for all users
 
 Open a pull request with a clear description of changes
 
-💼 Hackathon / Portfolio Blurb
+💼 Hackathon 
+
 Developed during a hackathon, this project is an accessibility-first web platform for deaf and disabled users. Built with React and modern web technologies, it enables inclusive communication, responsive design, and multi-modal interaction, while adhering to accessibility standards and delivering a seamless user experience
